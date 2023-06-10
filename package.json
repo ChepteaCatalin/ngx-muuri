@@ -1,0 +1,26 @@
+{
+  "name": "ngx-muuri",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0",
+    "muuri": "^0.9.5"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "description": "Angular wrapper around the Muuri JavaScript library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChepteaCatalin/ngx-muuri.git"
+  },
+  "keywords": [
+    "muuri"
+  ],
+  "author": "Cătălin Cheptea",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ChepteaCatalin/ngx-muuri/issues"
+  },
+  "homepage": "https://github.com/ChepteaCatalin/ngx-muuri#readme"
+}
